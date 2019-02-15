@@ -1,5 +1,6 @@
 title: Researcher
 url: "https://sarinalee.github.io/blog/"
+root: /blog/
 baseurl: "/blog"
 
 markdown: kramdown
